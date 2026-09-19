@@ -1,5 +1,7 @@
 # exercicios-cursoemvideo-mundo-python-2
 
+### Anotações das aulas
+
 ### 1\. Condições Aninhadas (`if`, `elif`, `else`) – Aula 12
 
 * **Conceito:** Enquanto as condições simples e compostas tratam apenas de duas alternativas (verdadeiro ou falso), problemas mais complexos exigem tratar três ou mais opções de caminho[2][3].
